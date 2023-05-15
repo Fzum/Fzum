@@ -34,6 +34,12 @@ In 2020, I graduated with a Master's degree in Software Engineering, which has h
 
 [//]: # (- Advanced topics in Angular and Kotlin.)
 
+[//]: # (## 💼 Projects)
+
+[//]: # (- [Project 1]&#40;https://github.com/your_username/project1&#41;)
+
+[//]: # (- [Project 2]&#40;https://github.com/your_username/project2&#41;)
+
 ## 📊 My Github stats
 ![Fabian's GitHub stats](https://github-readme-stats.vercel.app/api?username=fzum&show_icons=true&theme=radical)
 
